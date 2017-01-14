@@ -2,9 +2,9 @@
 ***
 
 #### How to start:
-npm install
-webpack-dev-server --progress --colors
-..and go to: http://localhost:8080/webpack-dev-server/
+npm install  
+webpack-dev-server --progress --colors  
+..and go to: http://localhost:8080/webpack-dev-server/  
 
 ***
 ##### Author
