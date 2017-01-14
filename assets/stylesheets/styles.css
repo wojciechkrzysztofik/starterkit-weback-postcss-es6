@@ -1,0 +1,11 @@
+@import 'variables.css';
+
+body {
+  background: #fff;
+  font-family: Helvetica, Arial;
+
+  .intro {
+    background: var(--orange);
+    padding: 10px;
+  }
+}
