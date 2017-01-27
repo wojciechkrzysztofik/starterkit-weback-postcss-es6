@@ -1,4 +1,4 @@
-### StarterKit with Webpack, PostCSS and ES6 (Bower)
+### StarterKit with Webpack, PostCSS and ES6 (Babel)
 ***
 
 #### How to start:
